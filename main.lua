@@ -1,5 +1,5 @@
 return function(mod)
-  local nbMode = require("mods.non-binary-mode.nbMode")
+  local nbMode = require("mods.Dgray66@non-binary-mode.nbMode")
  
   nbMode.init(mod)
 
