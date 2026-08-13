@@ -1,10 +1,12 @@
 # Non-Binary Mod
- A simple text mod for gen1recomp
+ A simple text mod for gen1recomp++
 
  <img width="1014" height="762" alt="image" src="https://github.com/user-attachments/assets/311c853f-90d8-447d-8909-1e93b9e621f0" />
 
  
  Re-genders any dialogue that references the player as male to non-binary.
+
+ Supports both Gen 1 and Gen 2
  
  ## Designed to be either a standalone mod or a mostly "plug-and-play" tool for other mods.
  
